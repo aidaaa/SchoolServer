@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="JEE">
+    <CLASSES>
+      <root url="file://D:/Andriod/lib/JEE" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://D:/Andriod/lib/JEE" recursive="false" />
+  </library>
+</component>
