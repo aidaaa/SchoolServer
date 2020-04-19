@@ -20,4 +20,22 @@
         <servlet-name>ClassNameShow</servlet-name>
         <url-pattern>/ClassNameShow</url-pattern>
     </servlet-mapping>
+
+    <servlet>
+        <servlet-name>LessonNameRegister</servlet-name>
+        <servlet-class>controller.lessonName.LessonNameRegister</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>LessonNameRegister</servlet-name>
+        <url-pattern>/LessonNameRegister</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>LessonNameShow</servlet-name>
+        <servlet-class>controller.lessonName.LessonNameShow</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>LessonNameShow</servlet-name>
+        <url-pattern>/LessonNameShow</url-pattern>
+    </servlet-mapping>
 </web-app>
