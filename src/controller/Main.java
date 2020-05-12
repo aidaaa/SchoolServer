@@ -14,8 +14,7 @@ import java.security.InvalidKeyException;
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 import java.security.spec.InvalidKeySpecException;
-import java.security.spec.KeySpec;
-import java.util.Arrays;
+
 
 public class Main {
     private static final byte[]SALT = {3, (byte) 253, (byte) 245, (byte) 149,86, (byte) 148, (byte) 148,43};
